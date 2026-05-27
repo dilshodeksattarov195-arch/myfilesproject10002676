@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentsalidate",
+        "uuid": 6320712,
+        "checksum": "8cbzhn"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
